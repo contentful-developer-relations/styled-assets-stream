@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
+This project was created to showcase how the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/) can be used
+in conjunction with [Forma-36](https://f36.contentful.com/) and the
+[open source field editors](https://contentful-field-editors.netlify.app/) to
+create a custom rich text editor experience for users who work with assets.
+
+![Rich Text Styled Asset](/richtext-style-asset.png)
+
+This project was bootstrapped using the [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
 ## Available Scripts
 
