@@ -4,13 +4,14 @@ rich text editor which can add metadata to image assets.
 
 In [part one](https://youtu.be/Q2dnMcCj4cQ), we explore
 the developer experience around fleshing out an idea and using the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/), [Forma-36](https://f36.contentful.com/), and the [open source field editors](https://contentful-field-editors.netlify.app/) to build
-a rich text editor with extra features.
+our rich text editor.
 
 The code in this repo is the product of [part two](https://youtu.be/y45hepSuP_8) in
 our series, where we build out an app that matches rich text assets to modifiable fields.
 We recommend you follow along with the live streams in order to fully understand the context
 when running this app locally.
 
+![Rich Text Styled Asset](/richtext-style-asset.png)
 ## How to run this project
 This project was bootstrapped using the [Create Contentful App](https://github.com/contentful/create-contentful-app) which utilizes Create React App under the hood.
 If you are familiar with running a Node process, you can follow the steps outlined below.
@@ -18,7 +19,6 @@ If you are familiar with running a Node process, you can follow the steps outlin
 If you are new to the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/), we recommend learning how to build and run an app by following
 our detailed [tutorial](https://www.contentful.com/developers/docs/extensibility/app-framework/tutorial/).
 
-![Rich Text Styled Asset](/richtext-style-asset.png)
 ## Available Scripts
 
 In the project directory, you can run:
