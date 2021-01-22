@@ -1,5 +1,8 @@
 # Styled Asset App Demo
-This project is part of a two part series. In [part one](https://youtu.be/Q2dnMcCj4cQ), we explore
+This project is part of a two part live stream series where we explore building a custom
+rich text editor which can add metadata to image assets.
+
+In [part one](https://youtu.be/Q2dnMcCj4cQ), we explore
 the developer experience around fleshing out an idea and using the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/), [Forma-36](https://f36.contentful.com/), and the [open source field editors](https://contentful-field-editors.netlify.app/) to build
 a rich text editor with extra features.
 
