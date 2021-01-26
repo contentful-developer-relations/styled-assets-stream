@@ -1,6 +1,7 @@
 # Styled Asset App Demo
-This project is part of a two part live stream series where we explore building a custom
-rich text editor which can add metadata to image assets.
+This project is part of a two part live stream series where we explore building a custom rich text editor which can add metadata to image assets in the Contentful UI.
+
+![Styled Assets Live Stream](/styled-assets-stream-cover-image.jpg)
 
 In [part one](https://youtu.be/Q2dnMcCj4cQ), we explore
 the developer experience around fleshing out an idea and using the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/), [Forma-36](https://f36.contentful.com/), and the [open source field editors](https://contentful-field-editors.netlify.app/) to build
@@ -19,13 +20,13 @@ If you are familiar with running a Node process, you can follow the steps outlin
 If you are new to the Contentful [App Framework](https://www.contentful.com/developers/docs/extensibility/app-framework/), we recommend learning how to build and run an app by following
 our detailed [tutorial](https://www.contentful.com/developers/docs/extensibility/app-framework/tutorial/).
 
-## Available Scripts
+## Available scripts
 
 In the project directory, you can run:
 
 #### `npm start`
 
-Creates or updates your app definition in contentful, and runs the app in development mode.
+Creates or updates your app definition in Contentful, and runs the app in development mode.
 Open your app to view it in the browser.
 
 The page will reload if you make edits.
@@ -46,7 +47,7 @@ To make your app look and feel like Contentful use the following libraries:
 - [Forma 36](https://f36.contentful.com/) – Contentful's design system
 - [Contentful Field Editors](https://www.contentful.com/developers/docs/extensibility/field-editors/) – Contentful's field editor React components
 
-## Learn More
+## Learn more
 
 [Read more](https://www.contentful.com/developers/docs/extensibility/app-framework/create-contentful-app/) and check out the video on how to use the CLI.
 
